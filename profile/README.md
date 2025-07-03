@@ -27,8 +27,3 @@ Utilizamos tecnologías modernas para garantizar rendimiento, seguridad y escala
 * DevOps: Docker, GitHub
 
 * Hosting: Servidores en Colombia
-
-## 🦾 Nuestro Equipo
-
-- Jesús Flórez (CEO | Back-end Dev | Designer | Founder)
-- Camilo Cardenas (CTO | Front-End Dev | Co-Founder)
